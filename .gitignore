@@ -1,0 +1,5 @@
+.vscode
+*/__pycache__
+*/*.cypythone
+notes.txt
+frontend/node_modules
